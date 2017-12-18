@@ -1,6 +1,9 @@
 public class SampleA {
     public static void main(String[] args) {
-        System.out.println("BRANCH IS BETTER");
+        System.out.println("MASTER");
+        System.out.println("MASTER");
+        System.out.println("MASTER");
+        System.out.println("MASTER");
 
     }
 }
