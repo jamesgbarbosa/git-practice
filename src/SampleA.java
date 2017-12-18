@@ -6,6 +6,7 @@ public class SampleA {
 
         System.out.println("Print A. new commit from Branch A");
         System.out.println("Print B.  new commit from Branch A");
+        System.out.println("Print C.  new commit from Branch A");
 
 
     }
